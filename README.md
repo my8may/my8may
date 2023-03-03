@@ -1,4 +1,4 @@
-![Header](https://github.com/my8may/my8may/blob/main/assets/Korovina%20Marina.jpg)
+![Header](https://github.com/my8may/my8may/blob/main/assets/marina%20Korovina.png)
 
 ## I'm a beginner Sofrware Engineer
 
